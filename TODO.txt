@@ -1,0 +1,2 @@
+- make tol and maxit parameters globals: ad_tol and ad_maxit 
+
